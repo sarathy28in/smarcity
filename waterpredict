@@ -1,16 +1,16 @@
 [
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
-    "updateDate": "2016-04-10T00:00:00.0Z",
-    "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This channel has multiple TTS JSON items. This is the first item.",
+    "updateDate": "2017-11-28T00:00:00.0Z",
+    "titleText": "Good Morning!!! Here is your top Priority Problem from Water Department",
+    "mainText": "There is a Road Block Strike at Madurai Junction",
     "redirectionUrl": "https://www.amazon.com"
    },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-    "updateDate": "2016-04-10T00:00:00.0Z",
-    "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This channel has multiple TTS JSON items. This is the second item.",
+    "updateDate": "2017-11-28T00:00:00.0Z",
+    "titleText": "Good Morning!!! Here is your top second Priority Problem from Water Department",
+    "mainText": "Vaigai dam Source is stopped today. Need to Talk to Dam Head to know about the problem",
     "redirectionUrl": "https://www.amazon.com"
   }
 ]
