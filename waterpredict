@@ -1,16 +1,10 @@
-[
-  {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
-    "updateDate": "2017-11-28T00:00:00.0Z",
-    "titleText": "Good Morning!!! Here is your top Priority Problem from Water Department",
-    "mainText": "Water Scarcity in 2 Zones",
-    "redirectionUrl": "https://www.amazon.com"
-   },
-  {
-    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-    "updateDate": "2017-11-28T00:00:00.0Z",
-    "titleText": "Good Morning!!! Here is your top second Priority Problem from Water Department",
-    "mainText": "Vaigai dam Source is stopped today. Need to Talk to Dam Head to know about the problem",
-    "redirectionUrl": "https://www.amazon.com"
-  }
-]
+[{"uid":"EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
+"updateDate":"2017-11-28T14:20:56.5007797+05:30",
+"titleText":"Good Morning!!! Here is your top Priority Problem from Water Department",
+"mainText":"The Water demand in Madurai North for December 2017 is 969.085945027583",
+"redirectionUrl":"https://www.amazon.com"},
+{"uid":"EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_1",
+"updateDate":"2017-11-28T14:20:56.5047794+05:30",
+"titleText":"Good Morning!!! Here is your top Priority Problem from Water Department",
+"mainText":"The Water Consumption in Madurai North for December 2017 is 1496.18785578754",
+"redirectionUrl":"https://www.amazon.com"}]
